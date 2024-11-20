@@ -1,4 +1,4 @@
-![jawaban_mssql_no_7_1](https://github.com/user-attachments/assets/462ec935-9394-489b-b2d3-20b1b98484b9)# Database Systems Midterm Answer
+# Database Systems Midterm Answer
 The midterm was tested using Microsoft SQL Server. 
 
 Entity Relationship Diagram: <br />
